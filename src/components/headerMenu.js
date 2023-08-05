@@ -12,7 +12,7 @@ const HeaderMenu = () => {
           <SvgIcon name="burgermenu" height="1.5vw" width="1.5vw" />
         </div>
 
-        <p className="headermenu_text"><img src={require("../assets/images/logo1.JPG")} alt="" /></p>
+        <p className="headermenu_text "><img src={require("../assets/images/logo1.JPG")} alt="" /></p>
         <div className="headermenu_options">
           <div className="headermenu_icons">
             <SvgIcon name="search" height="1.5vw" width="1.5vw" />
